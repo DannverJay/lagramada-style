@@ -23,12 +23,15 @@ ul{
      border: 5px solid purple;
      padding: 50px 50px 50px;   
 }
+ul li {
+     margin: 5px;
+}
 a:link {
     color: #82b8de;
     }
 a.visited {
     color: #2b99e6;
 }
-a.hover{
+a:hover {
     text-decoration: none;
 }
