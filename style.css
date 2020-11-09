@@ -1,0 +1,34 @@
+
+body {
+    font-family: helvetica;
+}
+
+h1 {
+    color:  #375e97;
+    font-family: Georgia;
+    font-size: 2em;
+    border-bottom-style: dotted;
+    border-width: 5px;
+}
+
+p.one {
+    color: #999999;
+}
+h2{
+    font-style: italic;
+    font-size: 1.5em;
+}
+ul{
+     background-color: #eeeeee;
+     border: 5px solid purple;
+     padding: 50px 50px 50px;   
+}
+a:link {
+    color: #82b8de;
+    }
+a.visited {
+    color: #2b99e6;
+}
+a.hover{
+    text-decoration: none;
+}
